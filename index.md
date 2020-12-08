@@ -7,6 +7,8 @@ In this website you will see all my Assignments and Final Project in this course
 ## Assignment 7
 This Assignment is about Network Graph, mainly talk about visualization for the flow of people between different states in the United States over the period of one year, 
 using network graphs.
+
+For details, please click:
 [Assignment 7](networks.html)
 
 ## Final Project
