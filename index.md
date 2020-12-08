@@ -4,6 +4,10 @@ Hi! My name is Xiangyu Hu and this is my website for ANLY 503 portfolio.
 
 In this website you will see all my Assignments and Final Project in this course.
 
+## Assignment 7
+This Assignment is about Network Graph, mainly talk about visualization for the flow of people between different states in the United States over the period of one year, 
+using network graphs.
+[Assignment 7](networks.html)
 
 ## Final Project
 The last part is about the final project:
